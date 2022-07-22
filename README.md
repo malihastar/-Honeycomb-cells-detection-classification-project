@@ -1,6 +1,6 @@
 # -Honeycomb-cells-detection-classification-project
  Honeycomb cells detection classification project by tensorflow
-# Honeycomb Cell Classification Using Deep Learing methods
+# Honeycomb Cell Classification Using Deep Learing Methods
 Harvesting the honeycomb with the right methods has great importance for beekeeping activities and the country's economy. 
 Failure to use the right methods in honey harvest will adversely affect both the production quantity and quality of honey.
 Unconscious beekeeping activities prevent bees that play an important role in the continuation of natural life from being able to continue their offspring.
